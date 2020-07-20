@@ -1,17 +1,17 @@
 const functions = {
   gradeClassifier: (grade) => {
     if(grade >= 0 && grade <= 74.99)
-      return 'D'
+      return "D - Did not Meet Expectation"
     else if(grade >= 75.00 && grade <= 79.99)
-      return 'N'
+      return "N - Needs Improvement"
     else if(grade >= 80.00 && grade <= 84.99)
-      return 'S'
+      return "S - Satisfactory"
     else if(grade >= 85.00 && grade <= 89.99)
-      return 'G'
+      return "G - Good"
     else if(grade >= 90.00 && grade <= 94.99)
-      return 'V'
+      return "V - Very Good"
     else if(grade >= 95.00 && grade <= 100.00)
-      return 'O'
+      return "O - Outstanding"
     else
       return "Invalid"
   }
