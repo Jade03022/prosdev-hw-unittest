@@ -32,5 +32,5 @@ D | Did not Meet Expectation | 74.99 and below
 *TODO: Insert screenshot of the results from the command line*
 
 <p>
-    ![ScreenShot](/Results.png)
+    <img src="/Results.png" width="220" height="240" />
 </p>
