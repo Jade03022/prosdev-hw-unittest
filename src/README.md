@@ -32,5 +32,3 @@ D | Did not Meet Expectation | 74.99 and below
 *TODO: Insert screenshot of the results from the command line*
 
 ![ScreenShot](https://raw.githubusercontent.com/Jade03022/prosdev-hw-unittest/master/Results.png)
-
-End of picture.
